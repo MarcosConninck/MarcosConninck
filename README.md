@@ -2,7 +2,13 @@
 <h2 background-color=> Hello There! </h2>
 <br>
 
-<div align='left' >
+<h4 align:"Center">About me:</h4>
+<p> Learning technologies to change my carrer.</p>
+<p> 🎯 Currently studying with the aim of acquiring certification of Salesforce Developer I</p>
+<p> 👨‍💻 Technologist in Systems Analysis and Development</p>
+<p> 🎖️ Ex-military from brazilian marines 🇧🇷</p>
+
+<div align='center' >
   <a href="https://www.salesforce.com/trailblazer/lxelnoe9tymas0ic5h">
     <img src ='https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-salesforce/events/trailhead-logo_sxOxVMt.png' width=50px height=50px>
   </a>
@@ -15,7 +21,7 @@
 </div>
 <br>
 
-<h4>Technologies</h4>
+<h4 align:"Center">🛠️ Languages and Tools</h4>
 <div class="technologies" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"  title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
