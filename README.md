@@ -1,10 +1,6 @@
 <h2> Hello There! 🤟</h2>
 
-<div class="stats" align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MarcosConninck&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
-</div>
-
-<div class="header" align:"center">
+<div class="header" align="center">
   <p> <b>About me:</b></p>
   <p> 📖 Learning technologies to change my carrer.</p>
   <p> 🎯 Currently studying with the aim of acquiring certification of Salesforce Developer I</p>
