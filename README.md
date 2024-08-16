@@ -1,6 +1,6 @@
 <h2 background-color=> Hello There! 🎼</h2>
 
-<div class="header" align:"Center">
+<div class="header" align:'center'>
   <p> <b>About me:</b></p>
   <p> 📖 Learning technologies to change my carrer.</p>
   <p> 🎯 Currently studying with the aim of acquiring certification of Salesforce Developer I</p>
