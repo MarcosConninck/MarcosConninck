@@ -22,6 +22,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 </div>
 
+
+<div id='Header' align='center'>
+  <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVjdnIweG85ajl2ajdrcjZqMGZhMnU3NHdjMW9ycWdxdWVhM2NlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp'
+</div>
+
+
 <div align='center' >
   <p>💭 Curious? Find me in:</p>
   <a href="https://www.salesforce.com/trailblazer/lxelnoe9tymas0ic5h">
@@ -33,9 +39,4 @@
   <a href="https://x.com/MarcosConninck">
     <img src ='https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png' width=50px height=50px >
   </a>
-</div>
-
-
-<div id='Header' align='center'>
-  <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVjdnIweG85ajl2ajdrcjZqMGZhMnU3NHdjMW9ycWdxdWVhM2NlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp'
 </div>
