@@ -1,6 +1,6 @@
-<h2 background-color=> Hello There! </h2>
+<h2 background-color=> Hello There! 🎼</h2>
 
-<div align:"Center">
+<div class="header" align:"Center">
   <p> <b>About me:</b></p>
   <p> 📖 Learning technologies to change my carrer.</p>
   <p> 🎯 Currently studying with the aim of acquiring certification of Salesforce Developer I</p>
@@ -8,14 +8,14 @@
   <p> 🎖️ Ex-military from brazilian marines 🇧🇷</p>
 </div>
 <br>
-<div align:"center">
 
 <div class="stats" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosConninck/">
 </div>
+<br>
 
 <div class="technologies" align="center">
-  <p>🛠️ <bold>Languages and Tools: </bold></p>
+  <p>🛠️ <b>Languages and Tools: </b></p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"  title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
