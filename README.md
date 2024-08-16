@@ -8,7 +8,22 @@
   <p> 👨‍💻 Technologist in Systems Analysis and Development</p>
   <p> 🎖️ Ex-military from brazilian marines 🇧🇷</p>
 </div>
+<br>
+<div align:"center">
+
+<div class="technologies" align="center">
+  <p>🛠️ <bold>Languages and Tools: </bold></p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"  title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="Powershell" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+</div>
+
 <div align='center' >
+  <p>💭 Curious? Find me in:</p>
   <a href="https://www.salesforce.com/trailblazer/lxelnoe9tymas0ic5h">
     <img src ='https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-salesforce/events/trailhead-logo_sxOxVMt.png' width=50px height=50px>
   </a>
@@ -18,20 +33,6 @@
   <a href="https://x.com/MarcosConninck">
     <img src ='https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png' width=50px height=50px >
   </a>
-</div>
-<br>
-
-<div align:"center">
-<h4>🛠️ Languages and Tools:</h4>
-</div>
-<div class="technologies" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"  title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="Powershell" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 </div>
 
 
