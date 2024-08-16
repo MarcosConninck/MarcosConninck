@@ -1,6 +1,7 @@
-<h2 background-color=> Hello There! 🤟</h2>
+<h2> Hello There! 🤟</h2>
+
 <div>
-  <p> </p>
+  <p>.</p>
 </div>
 <div class="header" align:"center">
   <p> <b>About me:</b></p>
