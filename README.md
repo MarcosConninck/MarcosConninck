@@ -1,9 +1,11 @@
 ## Hi there 👋
-
-https://www.salesforce.com/trailblazer/lxelnoe9tymas0ic5h
-
+My profile on Trailhead
+<div>
+  <a href="https://www.salesforce.com/trailblazer/lxelnoe9tymas0ic5h">
+    <img src ='https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-salesforce/events/trailhead-logo_sxOxVMt.png' width='40px' height='40px'>
+  </a>
+</div>
 <!--
-**MarcosConninck/MarcosConninck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
