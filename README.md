@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 </div>
-
+<br>
 
 <div id='Header' align='center'>
   <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVjdnIweG85ajl2ajdrcjZqMGZhMnU3NHdjMW9ycWdxdWVhM2NlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp'
