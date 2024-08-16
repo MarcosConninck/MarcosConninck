@@ -10,6 +10,9 @@
   <a href="https://www.linkedin.com/in/marcos-conninck-b6b729280/">
     <img src ='https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png' width=60px height=60px >
   </a>
+  <a href="https://x.com/MarcosConninck">
+    <img src ='https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png' width=60px height=60px >
+  </a>
 </div>
 <br>
 
