@@ -1,6 +1,5 @@
-
 <h2 background-color=> Hello There! </h2>
-<br>
+
 <div align:"Center">
   <h4>About me:</h4>
   <p> Learning technologies to change my carrer.</p>
@@ -26,7 +25,7 @@
 <div id='Header' align='center'>
   <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVjdnIweG85ajl2ajdrcjZqMGZhMnU3NHdjMW9ycWdxdWVhM2NlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp'
 </div>
-
+<br>
 
 <div align='center' >
   <p>💭 Curious? Find me in:</p>
