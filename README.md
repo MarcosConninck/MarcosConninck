@@ -1,12 +1,12 @@
 
-My profiles:
+<h1> My profiles: </h1>
 
 <div>
   <a href="https://www.salesforce.com/trailblazer/lxelnoe9tymas0ic5h">
     <img src ='https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-salesforce/events/trailhead-logo_sxOxVMt.png' width=60px height=60px>
   </a>
   <a href="https://www.linkedin.com/in/marcos-conninck-b6b729280/">
-    <img src ='https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png' width=40px height=40px>
+    <img src ='https://pngimg.com/uploads/linkedIn/linkedIn_PNG8.png' width=60px height=60px>
   </a>
   
 </div>
