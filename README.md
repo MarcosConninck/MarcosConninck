@@ -1,7 +1,7 @@
 <h2 background-color=> Hello There! </h2>
 
 <div align:"Center">
-  <h4>About me:</h4>
+  <p> <b>About me:</b></p>
   <p> 📖 Learning technologies to change my carrer.</p>
   <p> 🎯 Currently studying with the aim of acquiring certification of Salesforce Developer I</p>
   <p> 👨‍💻 Technologist in Systems Analysis and Development</p>
