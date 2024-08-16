@@ -2,7 +2,7 @@
 
 <div align:"Center">
   <h4>About me:</h4>
-  <p> Learning technologies to change my carrer.</p>
+  <p> 📖 Learning technologies to change my carrer.</p>
   <p> 🎯 Currently studying with the aim of acquiring certification of Salesforce Developer I</p>
   <p> 👨‍💻 Technologist in Systems Analysis and Development</p>
   <p> 🎖️ Ex-military from brazilian marines 🇧🇷</p>
@@ -26,7 +26,7 @@
   <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVjdnIweG85ajl2ajdrcjZqMGZhMnU3NHdjMW9ycWdxdWVhM2NlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp'
 </div>
 <br>
-
+<br>
 <div align='center' >
   <p>💭 Curious? Find me in:</p>
   <a href="https://www.salesforce.com/trailblazer/lxelnoe9tymas0ic5h">
