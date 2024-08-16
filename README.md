@@ -10,6 +10,10 @@
 <br>
 <div align:"center">
 
+<div class="stats" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosConninck/">
+</div>
+
 <div class="technologies" align="center">
   <p>🛠️ <bold>Languages and Tools: </bold></p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"  title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
