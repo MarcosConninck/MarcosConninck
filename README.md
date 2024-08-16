@@ -1,13 +1,13 @@
 
 <h2 background-color=> Hello There! </h2>
 <br>
-
-<h4 align:"Center">About me:</h4>
-<p> Learning technologies to change my carrer.</p>
-<p> 🎯 Currently studying with the aim of acquiring certification of Salesforce Developer I</p>
-<p> 👨‍💻 Technologist in Systems Analysis and Development</p>
-<p> 🎖️ Ex-military from brazilian marines 🇧🇷</p>
-
+<div align:"Center">
+  <h4>About me:</h4>
+  <p> Learning technologies to change my carrer.</p>
+  <p> 🎯 Currently studying with the aim of acquiring certification of Salesforce Developer I</p>
+  <p> 👨‍💻 Technologist in Systems Analysis and Development</p>
+  <p> 🎖️ Ex-military from brazilian marines 🇧🇷</p>
+</div>
 <div align='center' >
   <a href="https://www.salesforce.com/trailblazer/lxelnoe9tymas0ic5h">
     <img src ='https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-salesforce/events/trailhead-logo_sxOxVMt.png' width=50px height=50px>
@@ -21,7 +21,9 @@
 </div>
 <br>
 
-<h4 align:"Center">🛠️ Languages and Tools</h4>
+<div align:"center">
+<h4>🛠️ Languages and Tools:</h4>
+</div>
 <div class="technologies" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"  title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -34,5 +36,5 @@
 
 
 <div id='Header' align='center'>
-  <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnZzMHhwejJnamg0M2VpY2xzODc3eXJkYmFuMWlzdWJ0NGt1OHQwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.webp'
+  <img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVjdnIweG85ajl2ajdrcjZqMGZhMnU3NHdjMW9ycWdxdWVhM2NlaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp'
 </div>
