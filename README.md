@@ -14,6 +14,12 @@
 </div>
 <br>
 
+
+<div class="languages" align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosConninck&theme=dark&show_icons=true" alt="Languages" /></a>
+</div>
+<br>
+
 <div class="technologies" align="center">
   <p>🛠️ <b>Languages and Tools: </b></p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg"  title="Salesforce" alt="Salesforce" width="40" height="40"/>&nbsp;
