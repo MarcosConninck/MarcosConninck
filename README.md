@@ -3,7 +3,7 @@
 <div class="header" align="center">
   <p> <b>About me:</b></p>
   <p> 📖 Learning technologies to change my carrer.</p>
-  <p> 🎯 Currently studying with the aim of acquiring certification of Salesforce Developer I</p>
+  <p> 🎯 Studing MBA Software Enginering at USP</p>
   <p> 👨‍💻 Technologist in Systems Analysis and Development</p>
   <p> 🎖️ Ex-military from brazilian marines 🇧🇷</p>
 </div>
